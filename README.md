@@ -1,0 +1,1 @@
+Lazy loading is a design pattern that postpones the loading of non-essential resources until they are needed, improving initial load times and overall performance. Here's how to implement lazy loading using HTML, CSS, and JavaScript 
